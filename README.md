@@ -70,15 +70,17 @@ pip install numpy gym six
 
 To run the notebook, simply open it in Jupyter Notebook or Jupyter Lab and execute the cells sequentially. The notebook provides detailed explanations and visualizations to help you understand the reinforcement learning process.
 
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+Acknowledgments
+This project is inspired by OpenAI's Gym environments and the educational materials on reinforcement learning.
+
 To use the `frozen_lake.py` script, you can import the `FrozenLakeEnv` class into your Python code and create an instance of the environment:
 
 ```python
 from frozen_lake import FrozenLakeEnv
 env = FrozenLakeEnv(map_name="4x4", is_slippery=True)
 env.reset()
-env.render()'''
+env.render()
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-Acknowledgments
-This project is inspired by OpenAI's Gym environments and the educational materials on reinforcement learning.
