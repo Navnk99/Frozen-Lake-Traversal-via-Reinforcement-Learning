@@ -1,4 +1,4 @@
-# Frozen-Lake-Traversal-via-Reinforcement-Learning
+# Frozen-Lake-Traversal-via-Reinforcement-Learning with 8x8 Grid
 
 This repository contains code for solving the Frozen Lake environment using reinforcement learning techniques. The Frozen Lake environment is a classic problem in reinforcement learning, often used for educational purposes.
 
